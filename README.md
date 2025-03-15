@@ -1,10 +1,10 @@
-#Call Center Dashboard in Excel  
+# Call Center Dashboard in Excel  
 
-##Overview  
+## Overview  
 This **Call Center Dashboard** is built in **Excel** to provide **insightful data visualization** and **analysis** for call center operations.  
 It helps track **customer interactions, overall call center performance,** and **Key Performance Indicators (KPIs).**  
 
-##Features  
+## Features  
 
 ✔ **Interactive Dashboard** – Visual representation of call data.  
 ✔ **KPI Tracking** – Displays **average call duration, ratings, purchase amounts,** and more.  
