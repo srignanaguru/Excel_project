@@ -1,7 +1,7 @@
 # Fraud Detection Analysis Using Excel and Power Query
 
 ## 1. Data Retrieval and Transformation
-Downloaded the fraud detection dataset from Kaggle. The dataset was in a text file format (comma-separated values).
+Downloaded the [fraud_detection_dataset](https://www.kaggle.com/datasets/ranjeetshrivastav/fraud-detection-dataset) from Kaggle. The dataset was in a text file format (comma-separated values).
 Transformed the text file into a CSV format using a Python script (fraud_detection.ipynb).
 
 ## 2. Data Cleaning and Preprocessing in Power Query
