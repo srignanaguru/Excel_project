@@ -1,7 +1,7 @@
 # Fraud Detection Analysis Using Excel and Power Query
 
-Here the Excel file i worked 
-[Fraud_detection_dashboard](https://docs.google.com/spreadsheets/d/1zJANtkn_QxByvLVb9_obcTuHsG7H7sw5/edit?usp=sharing&ouid=102385976138112393533&rtpof=true&sd=true)
+## Here is the Excel file I worked out
+[Fraud_detection_dashboard.xlsx](https://docs.google.com/spreadsheets/d/1zJANtkn_QxByvLVb9_obcTuHsG7H7sw5/edit?usp=sharing&ouid=102385976138112393533&rtpof=true&sd=true)
 
 ## 1. Data Retrieval and Transformation
 Downloaded the [fraud_detection_dataset](https://www.kaggle.com/datasets/ranjeetshrivastav/fraud-detection-dataset) from Kaggle. The dataset was in a text file format (comma-separated values).
